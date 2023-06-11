@@ -398,6 +398,7 @@ section {
 }
 .timeline .timeline-item p {
   color: var(--color-grey-2);
+  text-align: justify;
 }
 
 .port-text {
