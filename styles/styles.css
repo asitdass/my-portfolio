@@ -535,6 +535,11 @@ section {
 }
 .contact-content-con .left-contact {
   flex: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+
 }
 .contact-content-con .left-contact h4 {
   margin-top: 1rem;
